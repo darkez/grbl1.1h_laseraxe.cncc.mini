@@ -2,6 +2,9 @@ Laseraxe.cncc.mini grbl 1.1h customized firmware
 
 ![board](https://user-images.githubusercontent.com/7156284/173411696-ba932abd-47a6-4ad6-a30e-1606e76ed750.png)
 
+original project: https://github.com/gnea/grbl/wiki
+
+
 Once the firmware has been flashed, submit these commands to complete the configuration:
 
 $3=4   // Z axis direction invert
